@@ -2,17 +2,11 @@
 
 This repository contains the implementation and report for **Project 2** of the course **Probability & Statistical Data Analysis (SECI1143)** at **Universiti Teknologi Malaysia (UTM)**.
 
-The project analyzes the relationship between **sleep patterns, lifestyle, and health conditions** using statistical methods.
+The project explores the relationship between **sleep patterns, lifestyle, and health conditions** through statistical analysis.
+
+I collaborated with my teammates, Michelle Ho Chia Xin, Tay Xin Ying, and Ida Yatullailiyeh Binti Amrun, to complete this project.
 
 ---
-## 👨‍🎓 Authors
-
-Group 06
-
-- **Michelle Ho Chia Xin**
-- **Tay Xin Ying**
-- **Toh Shee Thong**
-- **Ida Yatullailiyeh Binti Amrun**
 
 Course: **SECI1143 – Probability & Statistical Data Analysis**  
 Lecturer: **Dr. Shamini A/P Raja Kumaran**  
@@ -30,7 +24,7 @@ Sleep plays an important role in maintaining both **physical and mental health**
 
 This project investigates how **sleep habits relate to health and lifestyle factors** using statistical data analysis techniques.
 
-The analysis is conducted using the **Health and Sleep Relation Dataset**, which contains **374 samples** describing sleep behavior, health conditions, and lifestyle indicators.
+The analysis is conducted using the [**Health and Sleep Relation Dataset**](https://github.com/TOH1004/PSDA_DatasetAnalysis/blob/main/Sleep_health_and_lifestyle_dataset.xlsx), which contains **374 samples** describing sleep behavior, health conditions, and lifestyle indicators.
 
 ---
 
